@@ -10,7 +10,7 @@ This project is an Adidas Clone designed to replicate the look and functionality
 Frontend | Backend | Fullstack
 
 ## Deplolyed App
-Link:  https://66d47374809e46081db20411--ubiquitous-tiramisu-c08e19.netlify.app/
+Link:  https://soft-zabaione-72357d.netlify.app/
 
 ## Directory Structure
 ```
